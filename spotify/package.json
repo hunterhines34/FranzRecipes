@@ -1,0 +1,13 @@
+{
+  "id": "spotify",
+  "name": "Spotify",
+  "version": "0.0.1",
+  "description": "Spotify for Franz",
+  "main": "index.js",
+  "author": "Hunter Hines <hunterhines34@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://open.spotify.com/browse/featured#_=_",
+    "hasNotificationSound": true
+  }
+}

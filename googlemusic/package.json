@@ -1,0 +1,13 @@
+{
+  "id": "googleplaymusic",
+  "name": "Google Play Music",
+  "version": "1.0.0",
+  "description": "Google Play Music",
+  "main": "index.js",
+  "author": "Hunter Hines <hunterhines34@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://play.google.com/music/listen?u=0#/home",
+    "hasNotificationSound": true
+  }
+}

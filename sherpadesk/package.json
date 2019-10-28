@@ -1,0 +1,13 @@
+{
+  "id": "sherpadesk",
+  "name": "Sherpadesk",
+  "version": "0.0.1",
+  "description": "Sherpadesk for Franz",
+  "main": "index.js",
+  "author": "Hunter Hines <hunterhines34@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://duncanregionalit.sherpadesk.com/home/",
+    "hasNotificationSound": true
+  }
+}
